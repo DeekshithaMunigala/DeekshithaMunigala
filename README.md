@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Deekshitha Munigala
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning React.js.
-- 💞️ I’m looking to collaborate on open-source web development projects.
+- 🤝 I’m looking to collaborate on open-source web development projects.
 - 📫 How to reach me: You can reach me via email at deekshithagoud1668@gmail.com.
 - 😄 Pronouns: She/Her
 
